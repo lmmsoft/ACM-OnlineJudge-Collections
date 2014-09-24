@@ -5,6 +5,6 @@
 # List
 | OJ | 学校 | 作者 | 语言 | 许可 | 功能 | 
 | ---|---|---|---|---|---|
-| [neuoj](https://github.com/yangzhe1991/neuoj) | 东北大学OJ | [yangzhe1991](https://github.com/yangzhe1991/) | Python,Django |
+| [neuoj](https://github.com/yangzhe1991/neuoj) | 东北大学 | [yangzhe1991](https://github.com/yangzhe1991/) | Python,Django |
 | [vakuum](https://github.com/BYVoid/vakuum) | Personal | [BYVoid](https://github.com/BYVoid/) | Linux+PHP |GPL v2| 兼顾OI和ACM<br \> 支持特殊类型题目(代码检查、交互式、库式、提交答案式)<br /> 题库检索，用户排名，队伍系统，权限管理，代码备份 |
-
+| [zoj](https://github.com/licheng/zoj) | 浙江大学 | [licheng](https://github.com/licheng) | C++, Java |GNU GENERAL PUBLIC LICENSE |
